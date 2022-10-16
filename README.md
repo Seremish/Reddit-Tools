@@ -3,6 +3,7 @@ Some Reddit Automation Tools
 
 
 All Subreddit Leave
+
 If for some reason, someone wants to leave all subreddits
 requirements - python, selenium, chromedriver
 steps - replace `YOUR USERNAME` and `YOUR PASSWORD` with your details
